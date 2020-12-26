@@ -1,13 +1,13 @@
 [
-	    {
-		            "description":"解锁网易云音乐客户端变灰歌曲",
-			            "repository":"dockerhub",
-				            "arch":"amd64",
-					            "icon":"https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png",
-						            "displayName":"UnblockNeteaseMusic",
-							            "name":"timerever/unblockneteasemusic",
-								            "version":"latest",
-									            "location":"https://hub.docker.com/r/timerever/unblockneteasemusic",
-										            "type":"docker"
-											        }
+    {
+        "description":"解锁网易云音乐客户端变灰歌曲",
+        "repository":"dockerhub",
+        "arch":"amd64",
+        "icon":"https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png",
+        "displayName":"UnblockNeteaseMusic",
+        "name":"timerever/unblockneteasemusic",
+        "version":"latest",
+        "location":"https://hub.docker.com/r/timerever/unblockneteasemusic",
+        "type":"docker"
+    }
 ]
